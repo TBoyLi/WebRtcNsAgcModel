@@ -1,0 +1,3 @@
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/CMakeLists.txt
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/CMakeLists.txt

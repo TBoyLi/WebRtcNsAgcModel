@@ -1,0 +1,8 @@
+Executable : /Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86
+legacy_agc-lib
+legacy_ns-lib
+jvmArgs : 
+

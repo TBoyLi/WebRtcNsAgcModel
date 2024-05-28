@@ -1,0 +1,8 @@
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_ns/CMakeFiles/rebuild_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_ns/CMakeFiles/edit_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_ns/CMakeFiles/legacy_ns-lib.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_agc/CMakeFiles/rebuild_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_agc/CMakeFiles/edit_cache.dir
+/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_agc/CMakeFiles/legacy_agc-lib.dir

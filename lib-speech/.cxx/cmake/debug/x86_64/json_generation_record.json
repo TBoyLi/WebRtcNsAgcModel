@@ -1,0 +1,506 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/android_gradle_build.json due to:",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/build_command.txt, will remove stale json folder",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64\u0027",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64\u0027",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/prefab/x86_64/prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64\n-DCMAKE_MAKE_PROGRAM\u003d/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-B/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp\",\n  \"buildDirectory\": \"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/prefab/x86_64/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/redli/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":933,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":966,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":333,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":666,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/Users/redli/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"/Users/redli/Library/Android/sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\",\"/Users/redli/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"legacy_ns/CMakeLists.txt\",\"legacy_agc/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64\",\"name\":\"Project\",\"sourceDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp\",\"targets\":[{\"artifacts\":[\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64/liblegacy_ns-lib.so\"],\"buildDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_ns\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"WEBRTC_ANDROID\",\"WEBRTC_POSIX\",\"legacy_ns_lib_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/.\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"common_audio/signal_processing/complex_bit_reverse.c\",\"common_audio/signal_processing/complex_fft.c\",\"common_audio/signal_processing/copy_set_operations.c\",\"common_audio/signal_processing/cross_correlation.c\",\"common_audio/signal_processing/division_operations.c\",\"common_audio/signal_processing/downsample_fast.c\",\"common_audio/signal_processing/energy.c\",\"common_audio/signal_processing/get_scaling_square.c\",\"common_audio/signal_processing/min_max_operations.c\",\"common_audio/signal_processing/real_fft.c\",\"common_audio/signal_processing/spl_init.c\",\"common_audio/signal_processing/vector_scaling_operations.c\",\"common_audio/third_party/fft4g/fft4g.c\",\"common_audio/third_party/spl_sqrt_floor/spl_sqrt_floor.c\",\"modules/audio_processing/legacy_ns/noise_suppression.c\",\"modules/audio_processing/legacy_ns/noise_suppression_x.c\",\"modules/audio_processing/legacy_ns/ns_core.c\",\"modules/audio_processing/legacy_ns/nsx_core.c\",\"modules/audio_processing/legacy_ns/nsx_core_c.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"WEBRTC_ANDROID\",\"WEBRTC_POSIX\",\"legacy_ns_lib_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"rtc_base/checks.cc\",\"common_audio/signal_processing/dot_product_with_scale.cc\",\"ns-lib.cpp\"]}],\"fullName\":\"liblegacy_ns-lib.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"legacy_ns-lib\",\"sourceDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns\",\"sysroot\":\"/Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64/liblegacy_agc-lib.so\"],\"buildDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/legacy_agc\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"WEBRTC_ANDROID\",\"WEBRTC_POSIX\",\"legacy_agc_lib_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/.\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"common_audio/signal_processing/copy_set_operations.c\",\"common_audio/signal_processing/division_operations.c\",\"common_audio/signal_processing/resample_by_2.c\",\"common_audio/signal_processing/spl_sqrt.c\",\"modules/audio_processing/agc/legacy/analog_agc.c\",\"modules/audio_processing/agc/legacy/digital_agc.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"WEBRTC_ANDROID\",\"WEBRTC_POSIX\",\"legacy_agc_lib_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"rtc_base/checks.cc\",\"common_audio/signal_processing/dot_product_with_scale.cc\",\"agc-lib.cpp\"]}],\"fullName\":\"liblegacy_agc-lib.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"legacy_agc-lib\",\"sourceDirectory\":\"/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc\",\"sysroot\":\"/Users/redli/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64/build_command.txt",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "legacy_ns-lib-Release-x86_64": {
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/x86_64",
+        "legacy_ns-lib"
+      ],
+      "buildType": "release",
+      "abi": "x86_64",
+      "artifactName": "legacy_ns-lib",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/release/obj/x86_64/liblegacy_ns-lib.so",
+      "runtimeFiles": []
+    },
+    "legacy_agc-lib-Release-x86_64": {
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/x86_64",
+        "legacy_agc-lib"
+      ],
+      "buildType": "release",
+      "abi": "x86_64",
+      "artifactName": "legacy_agc-lib",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/release/obj/x86_64/liblegacy_agc-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

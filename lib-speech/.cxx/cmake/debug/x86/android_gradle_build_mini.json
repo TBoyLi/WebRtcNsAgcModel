@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "legacy_ns-lib-Debug-x86": {
+      "artifactName": "legacy_ns-lib",
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86",
+        "legacy_ns-lib"
+      ],
+      "abi": "x86",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86/liblegacy_ns-lib.so",
+      "runtimeFiles": []
+    },
+    "legacy_agc-lib-Debug-x86": {
+      "artifactName": "legacy_agc-lib",
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86",
+        "legacy_agc-lib"
+      ],
+      "abi": "x86",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86/liblegacy_agc-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_ns/CMakeLists.txt",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/src/main/cpp/legacy_agc/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "legacy_agc-lib-Release-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/armeabi-v7a",
+        "legacy_agc-lib"
+      ],
+      "buildType": "release",
+      "abi": "armeabi-v7a",
+      "artifactName": "legacy_agc-lib",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/release/obj/armeabi-v7a/liblegacy_agc-lib.so",
+      "runtimeFiles": []
+    },
+    "legacy_ns-lib-Release-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/redli/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/release/armeabi-v7a",
+        "legacy_ns-lib"
+      ],
+      "buildType": "release",
+      "abi": "armeabi-v7a",
+      "artifactName": "legacy_ns-lib",
+      "output": "/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/release/obj/armeabi-v7a/liblegacy_ns-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

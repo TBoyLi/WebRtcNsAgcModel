@@ -1,0 +1,34 @@
+ninja: Entering directory `/Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/.cxx/cmake/debug/x86_64'
+[1/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/copy_set_operations.c.o
+[2/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/downsample_fast.c.o
+[3/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/energy.c.o
+[4/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/complex_bit_reverse.c.o
+[5/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/complex_fft.c.o
+[6/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/cross_correlation.c.o
+[7/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/get_scaling_square.c.o
+[8/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/division_operations.c.o
+[9/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/min_max_operations.c.o
+[10/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/third_party/spl_sqrt_floor/spl_sqrt_floor.c.o
+[11/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/spl_init.c.o
+[12/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/modules/audio_processing/legacy_ns/noise_suppression_x.c.o
+[13/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/vector_scaling_operations.c.o
+[14/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/real_fft.c.o
+[15/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/modules/audio_processing/legacy_ns/noise_suppression.c.o
+[16/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/third_party/fft4g/fft4g.c.o
+[17/33] Building CXX object legacy_ns/CMakeFiles/legacy_ns-lib.dir/rtc_base/checks.cc.o
+[18/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/modules/audio_processing/legacy_ns/nsx_core_c.c.o
+[19/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/common_audio/signal_processing/copy_set_operations.c.o
+[20/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/common_audio/signal_processing/division_operations.c.o
+[21/33] Building CXX object legacy_ns/CMakeFiles/legacy_ns-lib.dir/common_audio/signal_processing/dot_product_with_scale.cc.o
+[22/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/common_audio/signal_processing/resample_by_2.c.o
+[23/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/common_audio/signal_processing/spl_sqrt.c.o
+[24/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/modules/audio_processing/legacy_ns/ns_core.c.o
+[25/33] Building CXX object legacy_agc/CMakeFiles/legacy_agc-lib.dir/rtc_base/checks.cc.o
+[26/33] Building C object legacy_ns/CMakeFiles/legacy_ns-lib.dir/modules/audio_processing/legacy_ns/nsx_core.c.o
+[27/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/modules/audio_processing/agc/legacy/digital_agc.c.o
+[28/33] Building C object legacy_agc/CMakeFiles/legacy_agc-lib.dir/modules/audio_processing/agc/legacy/analog_agc.c.o
+[29/33] Building CXX object legacy_agc/CMakeFiles/legacy_agc-lib.dir/common_audio/signal_processing/dot_product_with_scale.cc.o
+[30/33] Building CXX object legacy_ns/CMakeFiles/legacy_ns-lib.dir/ns-lib.cpp.o
+[31/33] Building CXX object legacy_agc/CMakeFiles/legacy_agc-lib.dir/agc-lib.cpp.o
+[32/33] Linking CXX shared library /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64/liblegacy_ns-lib.so
+[33/33] Linking CXX shared library /Users/redli/Desktop/AndroidProjects/WebRtcNsAgcModel/lib-speech/build/intermediates/cmake/debug/obj/x86_64/liblegacy_agc-lib.so
